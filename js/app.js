@@ -13,3 +13,5 @@
 // Step 3:
 // create names for each car in the image and show them on top of slider in order
 
+// Step 4:
+// push to github pages
