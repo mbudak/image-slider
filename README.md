@@ -1,3 +1,3 @@
-# Image Slider
+# Landing Page Image Slider
 - Starter Code
 
